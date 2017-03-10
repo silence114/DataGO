@@ -1,13 +1,19 @@
 #DataGo博客项目
 ##前言
-本项目完全是自己瞎琢磨
+本项目完全是自己瞎琢磨,只是想自己从开发到部署为运维完整体验一把,顺便建个个人博客,谢谢文章!
+> 本项目使用的环境: 
+>   python          :Python v2.7.12
+>   Bootstrap       :Bootstrap v3.3.5
+>   JQuery          :JQuery v3.1.0
+>   AngularJs       :AngularJS v1.6.2
+>   MySQL           :MySQL v5.6.31
 
 ##1、 技术栈
 - 前端:
-    - bootstrap:前端布局
+    - Bootstrap:前端布局
     - AngularJS:数据交互
 - 后端:
-    - flask:接口开发
+    - Flask:接口开发
     - MySQL:数据存储
 
 ##2、数据库设计
